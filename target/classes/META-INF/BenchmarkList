@@ -1,0 +1,2 @@
+JMH S 20 main.SelectBenchmark S 62 main.jmh_generated.SelectBenchmark_deterministicSelect_jmhTest S 19 deterministicSelect S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 20 main.SelectBenchmark S 54 main.jmh_generated.SelectBenchmark_sortAndPick_jmhTest S 11 sortAndPick S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
